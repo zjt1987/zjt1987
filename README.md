@@ -4,7 +4,7 @@
   - Channel Codes
   - Machine Learning
   - Video Games
-- 🌱 I’m currently learning reinforcement learning
+- 🌱 I’m currently learning ***Reinforcement Learning***
 - 💞️ I’m looking to collaborate on 
   + Application of ML in communication systems
   + Other applicaitons of ML
